@@ -1,52 +1,52 @@
 # Space Apps 2016 Challenge Resources
 
 
-Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch. 
+Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch.
 
 ***
 ##Technology
 
 ###Jet Set Mars
 *	Mars Fact Sheet: http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html  
-*	Source for producing propulsion locally on Mars: http://www.marssociety.org/home/about/mars-direct 
+*	Source for producing propulsion locally on Mars: http://www.marssociety.org/home/about/mars-direct
 *	More info on Mars: http://quest.nasa.gov/aero/planetary/mars.html
 *	Jet packs!: https://en.wikipedia.org/wiki/Jet_pack
 *	Mars Atmosphere Model (metric units): https://www.grc.nasa.gov/www/k-12/airplane/atmosmrm.html
-*	The Mars Climate Database Projects: http://www-mars.lmd.jussieu.fr/ 
+*	The Mars Climate Database Projects: http://www-mars.lmd.jussieu.fr/
 	*	A web interface is provided to the database. If you want to download the full version database then please use the web link to request it. Do this well before the Space Apps Event!
 
 
 ###Print My Rocket
-*	Vehicle Assembly Building on KSC Partnerships site: http://kscpartnerships.ksc.nasa.gov/Partnering-Opportunities/Capabilities-and-Testing/Physical-Assets/Vehicle-Assembly-Building 
+*	Vehicle Assembly Building on KSC Partnerships site: http://kscpartnerships.ksc.nasa.gov/Partnering-Opportunities/Capabilities-and-Testing/Physical-Assets/Vehicle-Assembly-Building
 *	NASA 3D Models: VAB, Crawler: http://nasa3d.arc.nasa.gov/models
-*	KSC Resource Encyclopedia (page 323-324): http://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/KHB-1863?rhid=1000&did=35173&type=released&rev=$latest 
-*	First Work Platform for NASA's Space Launch System Installed in Vehicle Assembly Building http://www.nasa.gov/feature/first-work-platform-for-nasas-space-launch-system-installed-in-vehicle-assembly-building 
-*	Mobile Launch Platforms (MLP) http://science.ksc.nasa.gov/facilities/mlp.html 
-*	Exploration Systems Development http://www.nasa.gov/exploration/systems 
-*	Ground Systems Development and Operations http://www.nasa.gov/exploration/systems/ground/index.html 
-*	Additive Manufacturing for Propulsion Systems at MSFC: A Path to Flight http://ntrs.nasa.gov/search.jsp?R=20140016515 
-*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall 
-*	"3D Printing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing 
-*	NASA's 3D-Printed Habitat Challenge References https://americamakes.us/challenge/references/ 
+*	KSC Resource Encyclopedia (page 323-324): http://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/KHB-1863?rhid=1000&did=35173&type=released&rev=$latest
+*	First Work Platform for NASA's Space Launch System Installed in Vehicle Assembly Building http://www.nasa.gov/feature/first-work-platform-for-nasas-space-launch-system-installed-in-vehicle-assembly-building
+*	Mobile Launch Platforms (MLP) http://science.ksc.nasa.gov/facilities/mlp.html
+*	Exploration Systems Development http://www.nasa.gov/exploration/systems
+*	Ground Systems Development and Operations http://www.nasa.gov/exploration/systems/ground/index.html
+*	Additive Manufacturing for Propulsion Systems at MSFC: A Path to Flight http://ntrs.nasa.gov/search.jsp?R=20140016515
+*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall
+*	"3D Printing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing
+*	NASA's 3D-Printed Habitat Challenge References https://americamakes.us/challenge/references/
 
 
 ###Backfill My Model
-*	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
+*	NASA 3D Resources http://nasa3d.arc.nasa.gov/models
 *	3D Printing: Technology Drives Exploration: http://www.nasa.gov/topics/technology/manufacturing-materials-3d/index.html
 *	Mechanical CAD Translation Notes: https://step.nasa.gov/application_notes/mcad_translation.html  
-*	National Institute of Health 3D Print Exchange: http://3dprint.nih.gov/ 
-*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS): http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall 
-*	"3D Printing" on NASA Technical Reports Server (NTRS): http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing 
+*	National Institute of Health 3D Print Exchange: http://3dprint.nih.gov/
+*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS): http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall
+*	"3D Printing" on NASA Technical Reports Server (NTRS): http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing
 
 
 ###Origami Space Recycled
 *	[Integration of FOB System to Crew Transfer Bag](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1150&context=star)
-*	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
+*	NASA 3D Resources http://nasa3d.arc.nasa.gov/models
 *	3D Printing: Technology Drives Exploration http://www.nasa.gov/topics/technology/manufacturing-materials-3d/index.html
 *	Mechanical CAD Translation Notes https://step.nasa.gov/application_notes/mcad_translation.html  
-*	National Institute of Health 3D Print Exchange http://3dprint.nih.gov/ 
-*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall 
-*	"3D Printing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing 
+*	National Institute of Health 3D Print Exchange http://3dprint.nih.gov/
+*	"Additive Manufacturing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall
+*	"3D Printing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing
 
 ***
 ##AERONAUTICS
@@ -77,19 +77,19 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 ###Clear for Take Off
-*	Aviation Digital Data Service (ADDS): http://www.aviationweather.gov/adds/ 
-*	Virtual Skies: http://virtualskies.arc.nasa.gov/weather/index.html 
+*	Aviation Digital Data Service (ADDS): http://www.aviationweather.gov/adds/
+*	Virtual Skies: http://virtualskies.arc.nasa.gov/weather/index.html
 *	Dynamic Weather Routes Tool: http://technology.nasa.gov/patent/TOP2-168
-*	Weather search on FAA Safety: https://www.faasafety.gov/search/default.aspx?keywords=weather&submit=Search 
-*	Aviation Weather Research Program: http://www.faa.gov/nextgen/programs/weather/awrp/Weather and Aviation: How 
-*	Does Weather Affect the Safety and Operations of Airports and Aviation, and How Does FAA Work to Manage Weather-related Effects?: climate.dot.gov/documents/workshop1002/kulesa.pdf 
+*	Weather search on FAA Safety: https://www.faasafety.gov/search/default.aspx?keywords=weather&submit=Search
+*	Aviation Weather Research Program: http://www.faa.gov/nextgen/programs/weather/awrp/Weather and Aviation: How
+*	Does Weather Affect the Safety and Operations of Airports and Aviation, and How Does FAA Work to Manage Weather-related Effects?: climate.dot.gov/documents/workshop1002/kulesa.pdf
 *	NOAA Weather Satellites’ Eye on the Sky: http://www.jpss.noaa.gov/news-65.html
 *	Joint Polar Satellite System: http://www.jpss.noaa.gov/program.html
 
 ###Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
 *	NASA Armstrong Fact Sheet: Sonic Booms	https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-016-DFRC.html
-*	http://www.nasa.gov/aero/sonic_boom_takes_shape.html	
+*	http://www.nasa.gov/aero/sonic_boom_takes_shape.html
 *	New Probe Could Improve Sonic Boom Investigation https://www.nasa.gov/centers/armstrong/features/eagle_aero_probe.html?linkId=22201577
 *	Stark Beauty of Supersonic Shock Waves http://www.nasa.gov/image-feature/stark-beauty-of-supersonic-shock-waves/
 *	Interactive Display Provides Pilots with Real-Time Sonic Boom Information http://www.nasa.gov/offices/ipp/centers/dfrc/technology/DRC-008-001-RT-SonicBoom.html
@@ -105,7 +105,7 @@ Launch
 	*	NASA’s Launch Services Program NASA Facts: http://www-pao.ksc.nasa.gov/kscpao/nasafact/pdf/LSP2005.pdf
 	*	NASA LSP Launch Archive: http://www.nasa.gov/centers/kennedy/launchingrockets/archives/elv_archive-index.html
 	*	LSP Launch Vehicles (includes Countdown 101s): http://www.nasa.gov/centers/kennedy/launchingrockets/vehicles.html
-	*	LSP Playlist on NASA Kennedy YouTube Channel: http://www.nasa.gov/centers/kennedy/launchingrockets/archives/elv_archive-index.html 
+	*	LSP Playlist on NASA Kennedy YouTube Channel: http://www.nasa.gov/centers/kennedy/launchingrockets/archives/elv_archive-index.html
 		*	Most launches, starting June 2009, have videos of interviews of the launch director, launch polls (i.e. GO) by team, liftoff, and many more features
 *	NASA Space Launch System (SLS): https://www.nasa.gov/exploration/systems/sls/multimedia/gallery/SLS_Concepts.html
 *	NASA Launch Blogs: http://blogs.nasa.gov/
@@ -124,19 +124,19 @@ Launch
 	* 	[NASA Downloadable Videos](http://www.nasa.gov/multimedia/downloadable-video-page)
 	*	[NASA Video Gallery](http://www.nasa.gov/multimedia/videogallery/index.html)
 	*	Jason-3 launch on Falcon 9 from VAFB: https://www.facebook.com/media/set/?set=a.10153938437278117.1073741832.289222453116&type=3
-	*	Antares & Minotaur launches from Wallops: 
+	*	Antares & Minotaur launches from Wallops:
 		*	Orb-2: https://www.facebook.com/media/set/?set=a.10153938437278117.1073741832.289222453116&type=3
 		*	Orb-3: http://web.archive.org/web/20150207073709/http:/www.orbital.com/NewsInfo/MissionUpdates/Orb-3/Maps/default.aspx
 		*	LADEE: http://web.archive.org/web/20130822121110/http:/www.orbital.com/NewsInfo/MissionUpdates/MinotaurV/index.shtml
-	*	Atlas V launches from CCAFS: 
+	*	Atlas V launches from CCAFS:
 		*	MMS: https://www.youtube.com/watch?v=eD7E2Sk2JVE
 		*	OA-4: https://www.youtube.com/watch?v=R--dv7g-yeU
-	*	Delta IV launches from CCAFS: 
+	*	Delta IV launches from CCAFS:
 		*	EFT-1: https://www.youtube.com/watch?v=4-5YUQTD9ag
 *	What It's like to Design a Trip to Orbit: https://www.youtube.com/watch?v=CVVJXAMaEXM
 *	Personal Accounts of Launches (do not represent NASA)
 	*	NASA Social participants on various social media platforms; see NASA Social Twitter lists for partial lists of participants: http://www.nasa.gov/connect/social/index.html
-	*	STS-133: http://spacekate.com/2011/my-first-shuttle-launch-there-are-no-words/ 
+	*	STS-133: http://spacekate.com/2011/my-first-shuttle-launch-there-are-no-words/
 	*	STS-118: http://www.nasa.gov/audience/foreducators/what-its-like.html
 	*	RS-25 engine test vs. Space Shuttle launches: https://blogs.nasa.gov/Rocketology/2015/08/20/the-engine-experience/
 	*	COTS Demo Flight 2 on Falcon 9 (starting at 1:22): http://www.npr.org/2012/10/09/162591202/sound-of-your-city-construction-food-truck-parks
@@ -150,7 +150,7 @@ Weather
 	*	Delta II Launch Weather Criteria: http://www.nasa.gov/sites/default/files/633163main_delta-2-weather.pdf
 	*	Falcon 9 Launch Weather Criteria: https://www.nasa.gov/pdf/649911main_051612_falcon9_weather_criteria.pdf
 	*	Space Shuttle Weather Launch Commit Criteria and KSC End of Mission Weather Landing Criteria: http://www.nasa.gov/centers/kennedy/pdf/531435main_weather-rules-march2011.pdf
-*	Range Role in Launch: 
+*	Range Role in Launch:
 	*	Range Flight Safety Program: NPR 8715.5A: http://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_8715_005A_&page_name=Chapter1
 	*	NASA Range Safety: http://kscsma.ksc.nasa.gov/range_safety/Operations.html
 	*	Air Force Mission Flight Control Officers (MFCOs) and public safety: http://www.afspc.af.mil/news/story.asp?id=123176336
@@ -173,7 +173,7 @@ Weather
 
 
 ###Rock-IT Space Fashion and Design
-*	Advanced electronics are a problem in space due to the density of the chips. The more circuitry in smaller electronic components, the greater the susceptibility to cosmic radiation. NASA is looking for “red hard” processers that aren’t affected by radiation to bring space-usable tech up to par with cool Earth tech. 
+*	Advanced electronics are a problem in space due to the density of the chips. The more circuitry in smaller electronic components, the greater the susceptibility to cosmic radiation. NASA is looking for “red hard” processers that aren’t affected by radiation to bring space-usable tech up to par with cool Earth tech.
 	*	Newsweek article "Introducing Astronaut Clothing of the Future": http://www.newsweek.com/2015/07/17/introducing-astronaut-clothing-future-349955.html
 
 *	Wearables help astronauts onboard the International Space Station monitor heart rates and breathing patterns, and collects data to investigate whether changes in heart activity are related to astronauts’ poor sleep quality. Textiles can be infused with technology to provide perspective on multiple investigations, such as respiration, body acceleration, skin temperature, and more.
@@ -207,7 +207,7 @@ Weather
 ##SOLAR SYSTEM
 
 ###Book it to the Moon
-*	Apollo Image Atlas: https://data.nasa.gov/external-dataset?datasetId=bdjz-sjmr 
+*	Apollo Image Atlas: https://data.nasa.gov/external-dataset?datasetId=bdjz-sjmr
 *	NASA’s Gallery: https://www.nasa.gov/multimedia/imagegallery/index.html
 *	Moon Views (Lunar Orbiter Image Recovery Project): http://www.moonviews.com/archives.html
 *	Google keywords like Moon and Apollo and you will find many more resources!
@@ -217,16 +217,16 @@ Weather
 ###Near Earth Object Machine Learning
 *	A list of close approaches to the earth: http://www.minorplanetcenter.net/iau/lists/CloseApp.html
 *	The JPL Small-Body Database: http:/ / ssd.jpl.nasa.gov/ sbdb.cgi
-	*	orbital elements 
-	*	orbit diagrams 
-	*	physical parameters 
-	*	discovery circumstances 
+	*	orbital elements
+	*	orbit diagrams
+	*	physical parameters
+	*	discovery circumstances
 *	Bolide Impacts / Bolide and Fireball Reports
-	*	https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum 
+	*	https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum
 	*	http://neo.jpl.nasa.gov/fireball
 *	This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 *	NEOWISE NEA/COMET Discovery: http://neo.jpl.nasa.gov/programs/neowise.html
-*	Near Earth Objects (NeoWs) API - With NeoWs, a user can search for Asteroids based on their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body ID HED Compendium (Meteorites from VESTA)  http:/ / curator.jsc.nasa.gov/ antmet/ hed/ hed_compendium.cfm
+*	Near Earth Objects (NeoWs) API - With NeoWs, a user can search for Asteroids based on their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body ID HED Compendium (Meteorites from VESTA)  http://curator.jsc.nasa.gov/antmet/hed/hed_compendium.cfm
 *	The Lunar Reconnaissance Orbiter (Moon craters): http://lunar.gsfc.nasa.gov/
 *	The MPC Orbit (MPCORB) database contains orbital elements of minor planets that have been published in the Minor Planet Circulars, the Minor Planet Orbit Supplement and the Minor Planet Electronic Circulars: http://www.minorplanetcenter.net/iau/MPCORB.html
 *	PHA Orbits (Potentially Hazardous Asteroids): http://neo.jpl.nasa.gov/orbits/
@@ -245,7 +245,7 @@ Weather
 
 ###Asteroid Mining
 *	See links above in Near Earth Objects Machine Learning
-*	*	OSIRIS-REX mission: 
+*	*	OSIRIS-REX mission:
 	*	http://www.asteroidmission.org/mission/#explore-instruments
 	*	http://www.nasa.gov/content/goddard/new-nasa-mission-to-help-us-learn-how-to-mine-asteroids/
 *	Glass Beads, Meteorite Fragments Hold Secret to Working on Asteroids: http://www.nasa.gov/feature/glass-beads-meteorite-fragments-hold-secret-to-working-on-asteroids
@@ -254,7 +254,7 @@ Weather
 	*	WRANGLER: http://www.nasa.gov/content/wrangler-capture-and-de-spin-of-asteroids-and-space-debris/#.VxFE7fkrLmE
 *	How to Mine an Asteroid http://www.popularmechanics.com/space/a7942/how-to-mine-an-asteroid-11644811/
 *	NASA JPL Roobotic Microspines https://www.youtube.com/watch?v=0KUdyBm6bcY
-*	Resourece Prospector Mission: https://www.nasa.gov/resource-prospector/ 
+*	Resourece Prospector Mission: https://www.nasa.gov/resource-prospector/
 
 
 ###Vesta Revealed
@@ -282,24 +282,24 @@ Weather
 
 
 ###Geotagging Space and Aviation
-*	NASA History: http://history.nasa.gov/ and http://www.nasa.gov/topics/history/index.html 
+*	NASA History: http://history.nasa.gov/ and http://www.nasa.gov/topics/history/index.html
 *	Building Deep Space Exploration Systems: http://www.nasa.gov/externalflash/ESDSuppliersMap/
 *	NASA's Astronaut Fact Book: http://www.nasa.gov/pdf/740566main_current.pdf
-*	NASA Astronaut Bios: http://www.jsc.nasa.gov/Bios/index.html 
-*	Teaching with Historic Places: Aviation http://www.nps.gov/nr/twhp/aviation.HTM 
+*	NASA Astronaut Bios: http://www.jsc.nasa.gov/Bios/index.html
+*	Teaching with Historic Places: Aviation http://www.nps.gov/nr/twhp/aviation.HTM
 *	Space Grant Consortiums (most USA states have one)
 *	Local governments may have information dedicated to their aviation history
-*	CubeSat Selections: http://www.nasa.gov/directorates/heo/home/CSLI_selections.html 
-*	Smallsat Technology Partnerships: http://www.nasa.gov/directorates/spacetech/small_spacecraft/announcements-solicitations.html 
-*	Space Station International Cooperation: http://www.nasa.gov/mission_pages/station/cooperation/index.html 
-*	NASA Partnerships: http://www.nasa.gov/partnerships/about.html 
-*	NASA Centers and Facilities (includes links to visitor centers): http://www.nasa.gov/about/sites/index.html 
-*	Smithsonian's National Air and Space Museum: https://airandspace.si.edu/ 
-*	ESA Connect With Us: http://www.esa.int/ESA/Connect_with_us 
-*	JAXA Field Centers: http://global.jaxa.jp/about/centers/ 
-*	NOAA Historical Resources: http://celebrating200years.noaa.gov/resources.html 
-*	National Archives: Space Exploration: http://www.archives.gov/research/alic/reference/space-exploration.html 
-*	National Archives: American Military History – Aviation: http://www.archives.gov/research/alic/reference/military/american-military-history.html#aviation 
+*	CubeSat Selections: http://www.nasa.gov/directorates/heo/home/CSLI_selections.html
+*	Smallsat Technology Partnerships: http://www.nasa.gov/directorates/spacetech/small_spacecraft/announcements-solicitations.html
+*	Space Station International Cooperation: http://www.nasa.gov/mission_pages/station/cooperation/index.html
+*	NASA Partnerships: http://www.nasa.gov/partnerships/about.html
+*	NASA Centers and Facilities (includes links to visitor centers): http://www.nasa.gov/about/sites/index.html
+*	Smithsonian's National Air and Space Museum: https://airandspace.si.edu/
+*	ESA Connect With Us: http://www.esa.int/ESA/Connect_with_us
+*	JAXA Field Centers: http://global.jaxa.jp/about/centers/
+*	NOAA Historical Resources: http://celebrating200years.noaa.gov/resources.html
+*	National Archives: Space Exploration: http://www.archives.gov/research/alic/reference/space-exploration.html
+*	National Archives: American Military History – Aviation: http://www.archives.gov/research/alic/reference/military/american-military-history.html#aviation
 *	Examples of geo-based apps/games (not sure if they should be included or not)
 	*	Field Trip: https://support.fieldtripper.com/hc/en-us/articles/208866807-Frequently-Asked-Questions-FAQ
 	*	Create Ingress Missions: https://support.ingress.com/hc/en-us/articles/206475078-Create-Ingress-Missions-the-basics
@@ -345,19 +345,19 @@ Weather
 ##JOURNEY TO MARS
 
 ###Space Recreation
-*	NASA Orion: https://www.nasa.gov/exploration/systems/orion/ & https://www.nasa.gov/pdf/166914main_FS_Orion508c.pdf 
-*	About the Space Station: http://www.nasa.gov/mission_pages/station/main/onthestation/facts_and_figures.html 
+*	NASA Orion: https://www.nasa.gov/exploration/systems/orion/ & https://www.nasa.gov/pdf/166914main_FS_Orion508c.pdf
+*	About the Space Station: http://www.nasa.gov/mission_pages/station/main/onthestation/facts_and_figures.html
 *	NASA’s Train like an astronaut program: http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/
-*	Exercising in Space: http://www.nasa.gov/audience/foreducators/stem-on-station/ditl_exercising 
-*	Fit for Space: http://www.nasa.gov/audience/formedia/presskits/fit_for_space.html 
-*	Astronauts to Watch World Cup aboard Space Station: http://www.nasa.gov/content/astronauts-to-watch-world-cup-aboard-space-station 
-*	Exercise + Microgravity on NASA Technical Report Servers (NTRS): http://naca.larc.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=exercise%20microgravity&Ntx=mode%20matchall 
-*	Advanced Exercise Concepts for Exploration: http://naca.larc.nasa.gov/search.jsp?R=20150010179&qs=N%3D4294950110%2B4294918663 
-*	Combined Operational Load Bearing External Resistance Treadmill (COLBERT): http://www.nasa.gov/mission_pages/station/research/experiments/765.html 
+*	Exercising in Space: http://www.nasa.gov/audience/foreducators/stem-on-station/ditl_exercising
+*	Fit for Space: http://www.nasa.gov/audience/formedia/presskits/fit_for_space.html
+*	Astronauts to Watch World Cup aboard Space Station: http://www.nasa.gov/content/astronauts-to-watch-world-cup-aboard-space-station
+*	Exercise + Microgravity on NASA Technical Report Servers (NTRS): http://naca.larc.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=exercise%20microgravity&Ntx=mode%20matchall
+*	Advanced Exercise Concepts for Exploration: http://naca.larc.nasa.gov/search.jsp?R=20150010179&qs=N%3D4294950110%2B4294918663
+*	Combined Operational Load Bearing External Resistance Treadmill (COLBERT): http://www.nasa.gov/mission_pages/station/research/experiments/765.html
 *	Interim Resistive Exercise Device (IRED): http://www.nasa.gov/mission_pages/station/research/experiments/1128.html
-*	Advanced Resistive Exercise Device (ARED): http://www.nasa.gov/mission_pages/station/research/experiments/1001.html 
-*	Spaced Out Sports Design Challenge: http://education.ssc.nasa.gov/spacedoutsports.asp 
-*	Space News article "FAA ADvisory Group Endorses Moon Village Concept": http://spacenews.com/faa-advisory-group-endorses-moon-village-concept/ 
+*	Advanced Resistive Exercise Device (ARED): http://www.nasa.gov/mission_pages/station/research/experiments/1001.html
+*	Spaced Out Sports Design Challenge: http://education.ssc.nasa.gov/spacedoutsports.asp
+*	Space News article "FAA ADvisory Group Endorses Moon Village Concept": http://spacenews.com/faa-advisory-group-endorses-moon-village-concept/
 *	Tech Times article "ESA to Build 3D Printed Moon Village for Astronauts": http://www.techtimes.com/articles/121906/20160107/esa-to-build-3d-printed-moon-village-for-astronauts-by-2030.htm
 *	Google Cardboard: https://developers.google.com/cardboard/
 
@@ -370,7 +370,7 @@ Weather
 
 ###Space Route 66
 *	KSC Center Planning and Development Office: http://kscpartnerships.ksc.nasa.gov/
-*	KSC Master Plan: http://masterplan.ksc.nasa.gov/ 
+*	KSC Master Plan: http://masterplan.ksc.nasa.gov/
 *	KSC Resource Encyclopedia: http://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/KHB-1863?rhid=1000&did=35173&type=released&rev=$latest
 *	Exploration Park: http://www.explorationpark.com/
 *	Brevard County: http://www.brevardcounty.us/
@@ -380,8 +380,8 @@ Weather
 *	Moonport: A History of Apollo Launch Facilities and Operations: http://www.hq.nasa.gov/office/pao/History/SP-4204/cover.html
 *	International Space University OASIS: http://isulibrary.isunet.edu/opac/index.php?lvl=notice_display&id=8415
 *	Mid-Atlantic Regional Spaceport (MARS): www.vaspace.org
-*	Wallops Flight Facility: https://www.nasa.gov/centers/wallops/home 
+*	Wallops Flight Facility: https://www.nasa.gov/centers/wallops/home
 *	Spaceport America: http://spaceportamerica.com/
 *	Europe's Spaceport: http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2
-*	Tanegashima Space Center: http://global.jaxa.jp/about/centers/tnsc/ 
-*	Baikonur Cosmodrome: http://www.kosmotras.ru/en/bayconur/ and http://www.nasa.gov/mission_pages/station/structure/elements/baikonur.html 
+*	Tanegashima Space Center: http://global.jaxa.jp/about/centers/tnsc/
+*	Baikonur Cosmodrome: http://www.kosmotras.ru/en/bayconur/ and http://www.nasa.gov/mission_pages/station/structure/elements/baikonur.html
